@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: brown;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+ul{
+    list-style: none;
+    display: inline;
+}
+
+ul li{
+    display: inline;
+    margin: 10px;
+}
